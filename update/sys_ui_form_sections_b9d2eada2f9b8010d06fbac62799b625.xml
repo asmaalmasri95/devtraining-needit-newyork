@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b9d2eada2f9b8010d06fbac62799b625" sys_domain="global" table="x_58872_needit_mycustomtable" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-04 12:00:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5d2eada2f9b8010d06fbac62799b628</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_mycustomtable" name="x_58872_needit_mycustomtable" sys_domain="global" view="Default view">b9d2eada2f9b8010d06fbac62799b625</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_mycustomtable" sys_domain="global" view="Default view">395456922f9b8010d06fbac62799b65b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-04 12:00:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-04 12:00:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1d2eada2f9b8010d06fbac62799b629</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_mycustomtable" name="x_58872_needit_mycustomtable" sys_domain="global" view="Default view">b9d2eada2f9b8010d06fbac62799b625</sys_ui_form>
+            <sys_ui_section caption="log" display_value="log" name="x_58872_needit_mycustomtable" sys_domain="global" view="Default view">79d2eada2f9b8010d06fbac62799b624</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-04 12:00:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-04 12:03:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7a3e21e2f9b8010d06fbac62799b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_mycustomtable" name="x_58872_needit_mycustomtable" sys_domain="global" view="Default view">b9d2eada2f9b8010d06fbac62799b625</sys_ui_form>
+            <sys_ui_section caption="statistics" display_value="statistics" name="x_58872_needit_mycustomtable" sys_domain="global" view="Default view">2ba3e21e2f9b8010d06fbac62799b67b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-04 12:03:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_mycustomtable</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-04 12:00:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9d2eada2f9b8010d06fbac62799b625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_mycustomtable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b9d2eada2f9b8010d06fbac62799b625</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-04 12:00:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
